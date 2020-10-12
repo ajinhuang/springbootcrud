@@ -1,0 +1,57 @@
+.ipinfo{
+	text-align: center;
+}
+
+.jumbotron{
+	background: url(../image/mainpageBanner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8;
+}
+#tease{
+	color: green;
+}
+/* font(字体)家族 */
+
+td{
+	width:100px;
+	height:100px;
+	background:pink;
+}
+
+.tttpic{
+	width: 100px;
+	height:100px;
+}
+
+.error {
+	color:red}
+#leftinfo{
+	float: left;
+	margin-right: 10px;
+	margin-left: 20%;
+}
+#rightinfo{
+	float: left;
+	margin-left: 50px;
+	width: 30%
+}
+
+.showinfo {
+  width: 50%;
+  list-style-type: none;
+  /* display: inline-block;*/
+  width: 50%;
+  float: left;
+  height: 50px;
+  line-height: 50px;
+}
+
+
+.key{
+	text-align:right;
+}
+
+.value{
+	text-align:left;
+}

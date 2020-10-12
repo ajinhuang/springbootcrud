@@ -1,0 +1,52 @@
+p{
+	font-family: Arial;
+	font-weight: bold;
+	line-height: 1.5;
+	/*text-align: center;*/
+	font-size: 30;
+	color: black;
+}
+
+h1{
+	font-family: Georgia;
+	font-size: 20px;
+	color:black;
+}
+
+body{
+	/*background: url(../image/2.gif);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.jumbotron {
+    background: url(../image/mainpageBanner.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#tease{
+	color: green;
+}
+/* font(字体)家族 */
+
+/*td{
+	width:100px;
+	height:100px;
+	background:pink;
+}*/
+.col-lg-4{
+	height: 20;
+}
+
+.thumbnail{
+	/*object-fit: cover;*/
+	height: 300px;
+	width: 300px;
+	border: 50px;
+ 	/*background: url(../image/mainpageBanner.jpg);*/
+}
+
+.tttpic{
+	object-fit: cover;
+}
